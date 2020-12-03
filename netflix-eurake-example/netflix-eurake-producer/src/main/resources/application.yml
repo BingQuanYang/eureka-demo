@@ -1,0 +1,10 @@
+server:
+  port: 8088
+spring:
+  application:
+    name: eureka-producer
+eureka:
+  client:
+    #设置与EurekaServer 交互的地址，查询服务和注册服务都依赖这个地址
+    service-url:
+      defaultZone: http://localhost:8765/eureka/

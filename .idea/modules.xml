@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud-netflix-example.iml" filepath="$PROJECT_DIR$/cloud-netflix-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netflix-eurake-example/netflix-eurake-consumer/netflix-eurake-consumer.iml" filepath="$PROJECT_DIR$/netflix-eurake-example/netflix-eurake-consumer/netflix-eurake-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netflix-eurake-example/netflix-eurake-example.iml" filepath="$PROJECT_DIR$/netflix-eurake-example/netflix-eurake-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netflix-eurake-example/netflix-eurake-producer/netflix-eurake-producer.iml" filepath="$PROJECT_DIR$/netflix-eurake-example/netflix-eurake-producer/netflix-eurake-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netflix-eurake-example/netflix-eurake-server/netflix-eurake-server.iml" filepath="$PROJECT_DIR$/netflix-eurake-example/netflix-eurake-server/netflix-eurake-server.iml" />
+    </modules>
+  </component>
+</project>
